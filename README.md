@@ -2,7 +2,7 @@
 
 Value Iteration, Policy Iteration and Q-Learning agents for Tic-Tac-Toe, modelled as a Markov Decision Process (MDP) and written in Java. Each agent was tested against random, aggressive and defensive opponents.
 
-This was coursework for an Artificial Intelligence course at Heriot-Watt University (Dec 2024). The course provided the game framework and the agent skeletons. My work was implementing the methods listed below.
+This was coursework for an Artificial Intelligence course (f29ai) at Heriot-Watt University (Dec 2024). The course provided the game framework and the agent skeletons. My work was implementing the methods listed below.
 
 > **Note:** The course framework (the game environment, MDP, `Agent`, `QTable`, etc.) is not included in this repo, so these files will not compile on their own.
 
