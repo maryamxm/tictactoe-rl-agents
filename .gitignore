@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Compiled Java
+*.class
+out/
+bin/
+build/
+target/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Logs / temp
+*.log
+*.tmp
